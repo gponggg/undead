@@ -30,4 +30,5 @@ var app=new function(){this.name="Undead",this.version="Undead v1",this.date="20
     
 {name:"21nugununugu",color:"828282",uniqsnd:!1},
 {name:"22beat_calamity",color:"3352FF",uniqsnd:!0}
+    {name:"23_james",color:"3352FF",uniqsnd:!0}
 ],this.bonusarray=[/*No bonuses?*/];for(var n=0,o=this.animearray.length;n<o;n++){var a=this.animearray[n].name;this.animearray[n].soundA=a+"_a",this.animearray[n].soundB=this.animearray[n].uniqsnd?a+"_a":a+"_b",this.animearray[n].anime=a+"-sprite.png",this.animearray[n].animeData=a+".json"}};
